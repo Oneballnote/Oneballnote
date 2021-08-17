@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Oneballnote
+- 👀 I’m interested in always learning something new, don't know a lot of technologies at the moment but I try to improve every day
+- 🌱 I’m currently learning software engineer 
